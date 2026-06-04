@@ -43,6 +43,16 @@
 
 ---
 
+
+## 环境配置说明
+- 装配easyX库，编译amazonly.cpp
+- 编译GUIamazonlybrain.cpp
+- 点击amazonly.exe，即可开始游戏
+
+
+
+---
+
 ## 系统架构
 
 ### 模块划分
